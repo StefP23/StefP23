@@ -1,7 +1,7 @@
 
 <h1 align="center">𝘏𝘰𝘭𝘢 𝘴𝘰𝘺 𝓔𝓼𝓽𝓮𝓯𝓪𝓷𝔂 𝓟𝓸𝓷𝓬𝓮 👋</h1>
 <br>
-<h3 align="center" > Actualmente estoy estudiando Ingeniería en Desarrollo de Software, en la Universidad de El Salvador</h3>
+<h3 align="center" > Actualmente estoy estudiando Ingeniería en Desarrollo de Software, en Universidad de El Salvador</h3>
 <p> Mi meta es obtener con el día a día la práctica que necesito para desarrollar mis habilidades y cosechar los frutos que ese esfuerzo me brinde</p>
 <br> 
 
