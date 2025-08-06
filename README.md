@@ -14,8 +14,8 @@
   </tr>
 </table>
 
-## <picture>
-  <img src="https://github.com/user-attachments/assets/f4ee9716-ca31-47ed-96f2-73676c67953f" width="50px"> </picture> Sobre mi 
+## <picture> Sobre mi 
+  <img src="https://github.com/user-attachments/assets/f4ee9716-ca31-47ed-96f2-73676c67953f" width="50px"> </picture> 
 
  
 <h3 align="center" > 💫 Soy estudiante de <b>Ingeniería en Desarrollo de Software, en la Universidad de El Salvador</b></h3>
