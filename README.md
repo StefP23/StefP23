@@ -14,11 +14,14 @@
   </tr>
 </table>
 
+##Sobre mi
 <h3 align="center" > 💫 Soy estudiante de <b>Ingeniería en Desarrollo de Software, en la Universidad de El Salvador</b></h3>
-<p> Mi meta es obtener con el día a día la práctica que necesito para desarrollar mis habilidades y cosechar los frutos que ese esfuerzo me brinde</p>
+<p>Me apasiona la tecnología, el análisis de datos y la automatización de procesos. Mi meta es obtener con el día a día la práctica que necesito para desarrollar mis habilidades tecnológicas para el desarrollo de soluciones innovadoras y eficientes.</p>
 <br> 
 
-- 🤔 I’m looking for help with -->  Proyectos que me brinden nuevos conocimientos y experiencia.
+Proyectos que me brinden nuevos conocimientos y experiencia.
+Autonomía e iniciativa en aprendizaje continuo.
+
 
 ## 💻 Lenguajes
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
