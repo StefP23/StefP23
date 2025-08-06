@@ -1,3 +1,7 @@
+<p align="center">
+   <img src=<img width="1024" height="1024" alt="Chica dev GitHub" src="https://github.com/user-attachments/assets/0bb8af86-3aab-46ce-a330-8f87637bd670"/>
+</p>
+
 <div align="center">
    <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
 </div>
