@@ -25,6 +25,25 @@
   </tr>
 </table>
 
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
+</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <h1 style="font-size: 32px; font-family: 'Segoe UI', sans-serif;">
+        <strong>𝓗𝓸𝓵𝓪, 𝓼𝓸𝓎 𝓔𝓼𝓽𝓮𝓯𝓪𝓷𝔂 𝓟𝓸𝓷𝓬𝓮</strong>
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
+      </h1>
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/0bb8af86-3aab-46ce-a330-8f87637bd670" height="150">
+    </td>
+  </tr>
+</table>
+
+
 <br>
 <h3 align="center" > Soy estudiante de <b>Ingeniería en Desarrollo de Software, en Universidad de El Salvador<b></b></h3>
 <p> Mi meta es obtener con el día a día la práctica que necesito para desarrollar mis habilidades y cosechar los frutos que ese esfuerzo me brinde</p>
