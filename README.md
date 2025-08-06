@@ -47,6 +47,7 @@
 </a>
 
 <div align="Center">
+  
 | CtorW's Stats | Ultimate Streak |
 | ------------- | ------------- |
 | ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
@@ -54,6 +55,8 @@
 | Most Lang |
 | ----------|
 | ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
+
 </div>
 
 
