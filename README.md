@@ -1,9 +1,6 @@
-<p align="center">
-   <img src="https://github.com/user-attachments/assets/0bb8af86-3aab-46ce-a330-8f87637bd670" height="200"/> 
-</p>
 
 <div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />  <img src="https://github.com/user-attachments/assets/0bb8af86-3aab-46ce-a330-8f87637bd670" height="200"/> 
 </div>
 <h2 align="center">
   𝘏𝘰𝘭𝘢, 𝘴𝘰𝘺 𝓔𝓼𝓽𝓮𝓯𝓪𝓷𝔂 𝓟𝓸𝓷𝓬𝓮
