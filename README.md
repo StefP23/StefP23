@@ -21,11 +21,12 @@
 - 🤔 I’m looking for help with -->  Proyectos que me brinden nuevos conocimientos y experiencia.
 
 💻 Lenguajes
-  &emsp;
+ <br>
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
   </a> 
-  &emsp;
+  <br>
+
 
 
 🛠️ Herramientas
