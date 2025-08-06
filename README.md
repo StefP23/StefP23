@@ -6,7 +6,6 @@
     <td>
       <h1 style="font-size: 32px; font-family: 'Segoe UI', sans-serif;">
         <strong> ✨ 𝑯𝒐𝒍𝒂 𝒄𝒐𝒎𝒖𝒏𝒊𝒅𝒂𝒅, 𝒔𝒐𝒚 𝑬𝒔𝒕𝒆𝒇𝒂𝒏𝒚 𝑷𝒐𝒏𝒄𝒆 ✨</strong>
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32">
       </h1>
     </td>
     <td>
