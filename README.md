@@ -43,21 +43,15 @@
 <a href="https://www.eclipse.org/" target="_blank">
 <a href="https://www.eclipse.org/" target="_blank"><img alt="Eclipse IDE" src="https://img.shields.io/badge/Eclipse%20IDE-%232C2255.svg?logo=eclipseide&logoColor=white"></a>
 <a href="https://learn.microsoft.com/en-us/sql/sql-server/" target="_blank">
-<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoftsqlserver&logoColor=white">
-</a>
-
-<div align="Center">
-  
-| CtorW's Stats | Ultimate Streak |
-| ------------- | ------------- |
-| ![CtorW's Stats](https://github-readme-stats.vercel.app/api?username=CtorW&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![CtorW's Streak](https://github-readme-streak-stats.herokuapp.com/?user=CtorW&theme=onedark&hide_border=true) 
-
-| Most Lang |
-| ----------|
-| ![CtorW's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CtorW&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?logo=microsoftsqlserver&logoColor=white"></a>
+<a href="https://www.postman.com/" target="_blank">
+<img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white"></a>
+<a href="https://www.jenkins.io/" target="_blank">
+<img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white"></a>
 
 
-</div>
+
+
 
 
 
