@@ -1,34 +1,3 @@
-
-<div align="center">
-   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />  <img src="https://github.com/user-attachments/assets/0bb8af86-3aab-46ce-a330-8f87637bd670" height="200"/> 
-</div>
-<h2 align="center">
-  𝘏𝘰𝘭𝘢, 𝘴𝘰𝘺 𝓔𝓼𝓽𝓮𝓯𝓪𝓷𝔂 𝓟𝓸𝓷𝓬𝓮
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h2>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
-</div>
-
-<table align="center">
-  <tr>
-    <td>
-      <h2>
-        𝘏𝘰𝘭𝘢, 𝘴𝘰𝘺 𝓔𝓼𝓽𝓮𝓯𝓪𝓷𝔂 𝓟𝓸𝓷𝓬𝓮
-        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-      </h2>
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/0bb8af86-3aab-46ce-a330-8f87637bd670" height="100">
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
-</div>
-
 <table align="center">
   <tr>
     <td>
