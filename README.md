@@ -17,7 +17,7 @@
 
 
 <br>
-<h3 align="center" > Soy estudiante de <b>Ingeniería en Desarrollo de Software, en Universidad de El Salvador<b></b></h3>
+<h3 align="center" > 💫 Soy estudiante de <b>Ingeniería en Desarrollo de Software, en la Universidad de El Salvador</b></h3>
 <p> Mi meta es obtener con el día a día la práctica que necesito para desarrollar mis habilidades y cosechar los frutos que ese esfuerzo me brinde</p>
 <br> 
 
