@@ -1,5 +1,6 @@
-
-<img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
     <h1 align="center">𝘏𝘰𝘭𝘢, 𝘴𝘰𝘺 𝓔𝓼𝓽𝓮𝓯𝓪𝓷𝔂 𝓟𝓸𝓷𝓬𝓮 <👋</h1>
 <br>
 <h3 align="center" > Actualmente estoy estudiando Ingeniería en Desarrollo de Software, en Universidad de El Salvador</h3>
