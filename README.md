@@ -23,7 +23,6 @@
 - ✍️ En mi tiempo libre me dedico a repasar y practicar lo aprendido en la semana, pasar tiempo con mi familia y mi mascotas.
 - 💬 Puedes compartir tu conocimiento conmigo y yo compartiré el mio contigo.
 - 💡 ¡Estoy abierto a comentarios y sugerencias!
-<br>
 
  ## 💻 𝐏𝐫𝐨𝐲𝐞𝐜𝐭𝐨𝐬 𝐪𝐮𝐞 𝐦𝐞 𝐛𝐫𝐢𝐧𝐝𝐞𝐧 𝐧𝐮𝐞𝐯𝐨𝐬 𝐜𝐨𝐧𝐨𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨𝐬 𝐲 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐢𝐚.  
  ## ⚡ 𝐀𝐮𝐭𝐨𝐧𝐨𝐦𝐢́𝐚 𝐞 𝐢𝐧𝐢𝐜𝐢𝐚𝐭𝐢𝐯𝐚 𝐞𝐧 𝐚𝐩𝐫𝐞𝐧𝐝𝐢𝐳𝐚𝐣𝐞 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨.    
