@@ -15,7 +15,7 @@
 </table>
 
 <p align="center">
-  <img src="https://![nubes-moradas-12752](https://github.com/user-attachments/assets/e45f5c61-a2c8-42e1-aa91-aff7d586375a) "alt="Banner" width="100%" style="opacity:0.7;">
+  <img src="https:![nubes](https://github.com/user-attachments/assets/310ec869-f4aa-4ef4-98a2-102ef6f6ff7f)" alt="Banner" width="100%" style="opacity:0.7;">
 </p>
 
 ## ⭐️ Sobre mi y lo que busco 
