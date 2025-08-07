@@ -16,8 +16,8 @@
 
 ## ⭐️ Sobre mi <picture> 
  
-<h3 align="center" > 💫 Soy estudiante de <b>Ingeniería en Desarrollo de Software, en la Universidad de El Salvador</b></h3>
-<p>Me apasiona la tecnología, el análisis de datos y la automatización de procesos. Mi meta es obtener con el día a día la práctica que necesito para desarrollar mis habilidades tecnológicas para el desarrollo de soluciones innovadoras y eficientes.</p>
+<h3 align="center" > 🎓 Soy estudiante de <b>Ingeniería en Desarrollo de Software, en la Universidad de El Salvador</b></h3>
+<p> 💫 Me apasiona la tecnología, el análisis de datos y la automatización de procesos. Mi meta es obtener con el día a día la práctica que necesito para desarrollar mis habilidades tecnológicas para el desarrollo de soluciones innovadoras y eficientes.</p>
 <br> 
 
 Proyectos que me brinden nuevos conocimientos y experiencia.
