@@ -22,12 +22,9 @@
 - 🌱 Estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
 - ✍️ En mi tiempo libre me dedico a repasar y practicar lo aprendido en la semana, pasar tiempo con mi familia y mi mascotas.
 - 💬 Puedes compartir tu conocimiento conmigo y yo compartiré el mio contigo.
+- 💻 Me gustaría aportar a proyectos que me brinden nuevos conocimientos y experiencia.
 - 💡 ¡Estoy abierto a comentarios y sugerencias!
 
- ## 💻 𝐏𝐫𝐨𝐲𝐞𝐜𝐭𝐨𝐬 𝐪𝐮𝐞 𝐦𝐞 𝐛𝐫𝐢𝐧𝐝𝐞𝐧 𝐧𝐮𝐞𝐯𝐨𝐬 𝐜𝐨𝐧𝐨𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨𝐬 𝐲 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐢𝐚.  
- ## ⚡ 𝐀𝐮𝐭𝐨𝐧𝐨𝐦𝐢́𝐚 𝐞 𝐢𝐧𝐢𝐜𝐢𝐚𝐭𝐢𝐯𝐚 𝐞𝐧 𝐚𝐩𝐫𝐞𝐧𝐝𝐢𝐳𝐚𝐣𝐞 𝐜𝐨𝐧𝐭𝐢𝐧𝐮𝐨.    
- ## 🎓 𝐃𝐮𝐫𝐚𝐧𝐭𝐞 𝐦𝐢 𝐟𝐨𝐫𝐦𝐚𝐜𝐢𝐨́𝐧 𝐮𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐚𝐫𝐢𝐚 𝐞𝐧 𝐈𝐧𝐠𝐞𝐧𝐢𝐞𝐫𝐢́𝐚 𝐞𝐧 𝐃𝐞𝐬𝐚𝐫𝐫𝐨𝐥𝐥𝐨 𝐝𝐞 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞, 𝐡𝐞 𝐩𝐚𝐫𝐭𝐢𝐜𝐢𝐩𝐚𝐝𝐨 𝐞𝐧 𝐝𝐢𝐯𝐞𝐫𝐬𝐨𝐬 𝐩𝐫𝐨𝐲𝐞𝐜𝐭𝐨𝐬 𝐚𝐜𝐚𝐝𝐞́𝐦𝐢𝐜𝐨𝐬, 𝐞𝐧𝐭𝐫𝐞 𝐞𝐥𝐥𝐨𝐬:
-   
 
 ## 💻 Lenguajes
   <a href="https://www.w3schools.com/cpp/" target="_blank"> 
