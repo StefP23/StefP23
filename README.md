@@ -62,7 +62,7 @@
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white"></a>
 
 ## Mi actividad
-![Github Stars](https://github-readme-stats.vercel.app/api?username=Aditya664&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+![Github Stars](https://github-readme-stats.vercel.app/api?username=StefP23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 
 
 
