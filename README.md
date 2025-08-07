@@ -17,8 +17,12 @@
 ## ⭐️ Sobre mi y lo que busco 
  
 - 🎓 Soy estudiante de Ingeniería en Desarrollo de Software, en la Universidad de El Salvador.
-
-- 💫 Me apasiona la tecnología, el análisis de datos y la automatización de procesos. Mi meta es desarrollar mis habilidades a través de la práctica constante, con el fin de fortalecer mi capacidad para desarrollar soluciones innovadoras y eficicentes.
+- 💫 Me apasiona la tecnología, el análisis de datos y la automatización de procesos.
+- ⚡ Mi meta es desarrollar mis habilidades a través de la práctica constante, con el fin de fortalecer mi capacidad para desarrollar soluciones innovadoras y eficicentes.
+- 🌱 Estoy constantemente aprendiendo y explorando nuevas tecnologías para mejorar mis habilidades.
+- ✍️ En mi tiempo libre me dedico a repasar y practicar lo aprendido en la semana, pasar tiempo con mi familia y mi mascotas.
+- 💬 Puedes compartir tu conocimiento conmigo y yo compartiré el mio contigo.
+- 💡 ¡Estoy abierto a comentarios y sugerencias!
 <br>
 
  ## 💻 𝐏𝐫𝐨𝐲𝐞𝐜𝐭𝐨𝐬 𝐪𝐮𝐞 𝐦𝐞 𝐛𝐫𝐢𝐧𝐝𝐞𝐧 𝐧𝐮𝐞𝐯𝐨𝐬 𝐜𝐨𝐧𝐨𝐜𝐢𝐦𝐢𝐞𝐧𝐭𝐨𝐬 𝐲 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐢𝐚.  
