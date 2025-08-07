@@ -14,10 +14,6 @@
   </tr>
 </table>
 
-<p align="center">
-  <img src="https:![nubes](https://github.com/user-attachments/assets/310ec869-f4aa-4ef4-98a2-102ef6f6ff7f)" alt="Banner" width="100%" style="opacity:0.7;">
-</p>
-
 ## ⭐️ Sobre mi y lo que busco 
  
 - 🎓 Soy estudiante de Ingeniería en Desarrollo de Software, en la Universidad de El Salvador.
