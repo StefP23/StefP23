@@ -14,6 +14,10 @@
   </tr>
 </table>
 
+<p align="center">
+  <img src="https://![nubes-moradas-12752](https://github.com/user-attachments/assets/e45f5c61-a2c8-42e1-aa91-aff7d586375a) " alt="Banner" width="100%" style="opacity:0.7;">
+</p>
+
 ## ⭐️ Sobre mi y lo que busco 
  
 - 🎓 Soy estudiante de Ingeniería en Desarrollo de Software, en la Universidad de El Salvador.
