@@ -20,8 +20,8 @@
 <p> 💫 Me apasiona la tecnología, el análisis de datos y la automatización de procesos. Mi meta es obtener con el día a día la práctica que necesito para desarrollar mis habilidades tecnológicas para el desarrollo de soluciones innovadoras y eficientes.</p>
 <br> 
 
-Proyectos que me brinden nuevos conocimientos y experiencia.
-Autonomía e iniciativa en aprendizaje continuo.
+💻Proyectos que me brinden nuevos conocimientos y experiencia.
+⚡Autonomía e iniciativa en aprendizaje continuo.
 
 
 ## 💻 Lenguajes
