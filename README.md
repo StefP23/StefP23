@@ -60,6 +60,10 @@
 <img alt="Postman" src="https://img.shields.io/badge/Postman-%23FF6C37.svg?logo=postman&logoColor=white"></a>
 <a href="https://www.jenkins.io/" target="_blank">
 <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%232C5263.svg?logo=jenkins&logoColor=white"></a>
+<a href="https://trello.com/b/TU_TABLERO_ID" target="_blank">
+<img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=trello&logoColor=white">
+</a>
+
 
 ## 📊 Mi actividad
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=StefP23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
