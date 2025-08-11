@@ -82,15 +82,3 @@
   </a>
 </p>
 
-
-
-
-
-![Github Stars](https://github-readme-stats.vercel.app/api?username=StefP23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
-
-
-
-<a href="https://github.com/StefP23">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefP23&theme=react&line_height=40&hide=css&layout=compact"/>
-</a>
-
