@@ -70,8 +70,7 @@
 
 
 ## 🔥 Lenguajes mas usados
- <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefP23&theme=react&line_height=40&hide=css"/>
- </a>
-
+<a href="https://github.com/StefP23">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefP23&theme=react&line_height=40&hide=css&layout=compact"/>
+</a>
 
