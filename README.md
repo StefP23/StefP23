@@ -64,12 +64,13 @@
 <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=trello&logoColor=white">
 </a>
 
-## 📊 Mi actividad y 🔥 Lenguajes mas usados
+## 📊 Mi actividad y Lenguajes mas usados
 <p align="left">
   <a href="https://github.com/StefP23">
     <img 
       src="https://github-readme-stats.vercel.app/api?username=StefP23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" 
       height="180px"
+      style="margin-right: 15px;"
     />
   </a>
   <a href="https://github.com/StefP23">
