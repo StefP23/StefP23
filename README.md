@@ -64,7 +64,7 @@
 <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=trello&logoColor=white">
 </a>
 
-## 📊 Mi actividad y Lenguajes mas usados
+## 📊 Mi actividad 
 <p align="left">
   <a href="https://github.com/StefP23">
     <img 
@@ -73,6 +73,8 @@
       style="margin-right: 40px; border-radius: 10px;"
     />
   </a>
+
+  ## ✅ Lenguajes mas usados
   <a href="https://github.com/StefP23">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefP23&theme=tokyonight&line_height=40&hide=css&layout=compact" 
