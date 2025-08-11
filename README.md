@@ -70,16 +70,18 @@
     <img 
       src="https://github-readme-stats.vercel.app/api?username=StefP23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight" 
       height="180px"
-      style="margin-right: 15px;"
+      style="margin-right: 15px; border-radius: 10px;"
     />
   </a>
   <a href="https://github.com/StefP23">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefP23&theme=tokyonight&line_height=40&hide=css&layout=compact" 
       height="180px"
+      style="border-radius: 10px;"
     />
   </a>
 </p>
+
 
 
 
