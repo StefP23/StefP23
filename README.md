@@ -64,6 +64,7 @@
 <img alt="Trello" src="https://img.shields.io/badge/Trello-%23026AA7.svg?logo=trello&logoColor=white">
 </a>
 
+## 📊 Mi actividad
 <p align="center">
   <a href="https://github.com/StefP23">
     <img 
@@ -71,6 +72,8 @@
       height="180px"
     />
   </a>
+
+  ## 🔥 Lenguajes mas usados
   <a href="https://github.com/StefP23">
     <img 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefP23&theme=tokyonight&line_height=40&hide=css&layout=compact" 
@@ -81,11 +84,11 @@
 
 
 
-## 📊 Mi actividad
+
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=StefP23&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
 
 
-## 🔥 Lenguajes mas usados
+
 <a href="https://github.com/StefP23">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefP23&theme=react&line_height=40&hide=css&layout=compact"/>
 </a>
